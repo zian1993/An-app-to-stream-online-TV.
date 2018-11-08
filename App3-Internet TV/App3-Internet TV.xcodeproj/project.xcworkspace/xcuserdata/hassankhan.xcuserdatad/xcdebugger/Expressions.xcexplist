@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ButtonArray.setup([String], [String]) -&gt; ():ButtonArray.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "buttonkit">
+            </PersistentString>
+            <PersistentString
+               value = "temparray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "URLChange.editend(sender : UITextField) -&gt; ():URLChange.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "texter">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "URLChange.any(sender : AnyObject, forEvent : UIEvent) -&gt; ():URLChange.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "texter">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ConfigController.any(sender : AnyObject, forEvent : UIEvent) -&gt; ():ConfigController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "temparray">
+            </PersistentString>
+            <PersistentString
+               value = "buttonman">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "StationController.playURL(URL) -&gt; ():StationController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "vol">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
